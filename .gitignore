@@ -1,0 +1,23 @@
+# Temp files
+report_text.txt
+report_tables.txt
+reference_pdf.txt
+
+# Main report files (private - do not push)
+*.docx
+*.pdf
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Model files (too large for git)
+*.pt
+*.bin
+*.safetensors
+*.npz
