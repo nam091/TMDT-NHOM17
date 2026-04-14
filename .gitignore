@@ -2,6 +2,7 @@
 report_text.txt
 report_tables.txt
 reference_pdf.txt
+*.txt
 
 # Main report files (private - do not push)
 *.docx

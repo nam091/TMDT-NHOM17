@@ -32,14 +32,6 @@
 
 ---
 
-## 👥 Nhóm thực hiện
-
-| Họ và Tên | Mã sinh viên | Vai trò |
-|-----------|-------------|---------|
-| Lã Phương Nam | AT190536 | Thành viên |
-| Nguyễn Hồng Phong | AT190540 | Thành viên |
-| Nguyễn Thanh Quyết | AT190545 | Thành viên |
-
 **Giảng viên hướng dẫn**: ThS. Nguyễn Thị Thu Thủy – Khoa An toàn Thông tin, Học viện Kỹ thuật Mật mã
 
 ---
@@ -47,7 +39,7 @@
 ## 📁 Cấu trúc thư mục
 
 ```
-TMDT-NHOM17/
+Phobert+XGBoost/
 ├── README.md                          # Mô tả dự án
 └── finetuned_xgboost.ipynb            # Notebook thực nghiệm (Google Colab)
 ```
